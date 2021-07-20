@@ -1,2 +1,5 @@
 # Single-Perceptron
-Perceprtron and need to for multilayer Perceptron.
+Perceptron and need to for multilayer Perceptron.
+
+Paper Cited Here 
+Du, K.-L & Swamy, M.N.s. (2014). Perceptrons. 10.1007/978-1-4471-5571-3_3. 
